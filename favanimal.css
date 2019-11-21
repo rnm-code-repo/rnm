@@ -1,0 +1,13 @@
+p{font-family:Georgia, 'Times New Roman', Times, serif;
+color:brown;
+font-size :25px;}
+p2{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blue;
+font-size:20px ;}
+#pic{border: 11px;
+border-style: dashed;
+border-color: blue;
+width: 250px;
+height: 250px;
+padding: 10px;
+margin-left: 40px;}
